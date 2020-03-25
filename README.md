@@ -15,19 +15,13 @@ En muchos sistemas de control se utilizan los encoders. Un buen punto de partida
 
 
 El sensor ha de poder "leer" las revoluciones que da el encoder en un tiempo determinado.
+Para ello  seguiremos los siguientes pasos:
 
+1.
 Os pongo el enlace del código que permite a Arduino leer los impulsos que le llegan en 5 segundos.
-
-
-
 Lo primero es realizar el circuito y ver que os funciona.
 
-
-
-Atención, aquí está en el pin 2, mira el código y ponlo adecuadamente
-
-
-
+2.
 Lo segundo es cambiar el pulsador por cualquier  otro sensor, por ejemplo una LDR y decir que si detecta más de x lux lo toma como un input
 
 
